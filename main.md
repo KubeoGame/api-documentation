@@ -5,8 +5,8 @@
 #### Items
 - api.unnamedsandbox.com/items/:id/
 - api.unnamedsandbox.com/items/:id/selling/
-#### Groups
-- api.unnamedsandbox.com/groups/:id/
-- api.unnamedsandbox.com/groups/:id/members/
-- api.unnamedsandbox.com/groups/:id/members?sort
-- api.unnamedsandbox.com/groups/:id/members?query
+#### Guilds
+- api.unnamedsandbox.com/guilds/:id/
+- api.unnamedsandbox.com/guilds/:id/members/
+- api.unnamedsandbox.com/guilds/:id/members?sort
+- api.unnamedsandbox.com/guilds/:id/members?query
